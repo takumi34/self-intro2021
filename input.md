@@ -50,7 +50,7 @@ Under CC0 license.</span>
   - なぜか一時期はAngularもやっていた
 
 - 趣味でOS(Linux Kernel、特にメモリ管理など)にも興味アリ
-  - 最近、発表もしました
+  - 最近、[その発表](https://youtu.be/brrm328XItM?t=13629)もしました
 
 ---
 
